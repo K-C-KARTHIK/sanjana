@@ -1,0 +1,24 @@
+#k
+{
+font-size: 30px;
+}
+div
+{
+    font-size: 40px;
+}
+#a
+{
+    font-size: 40px;
+    color: blue;
+margin-left: 300px; 
+}
+p
+{
+    font-size: 60px;
+    text-align: center;
+    color: aqua;
+}
+a
+{
+    text-decoration: none;
+}

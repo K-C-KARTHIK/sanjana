@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+}
+#ck
+{
+    
+    color: greenyellow;
+    background-color: cadetblue;
+    border: 2px solid green;
+    text-align: center;
+    margin: 0 auto;
+    width: 300px;
+}
+
+#kck
+{
+
+    color: black;
+    font-style: italic;
+font-size: 100px;
+text-align: center;
+   
+}
+#s
+{margin-top: 0px;
+text-align: center;
+    font-size: 32px;
+}
+body
+{
+    background-color: blanchedalmond;
+}

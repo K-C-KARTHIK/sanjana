@@ -1,0 +1,29 @@
+*
+{
+   margin :0px;
+}
+body
+{
+ 
+  
+   background-color: orange;
+
+}
+a
+{
+   font-size: 80px;
+   text-decoration: none;
+   text-transform: capitalize;
+   text-align: right;
+}
+#y
+{
+   margin-left: 150px;
+   margin-right: auto;
+}
+#k
+{
+ 
+ 
+   font-size: 30px;
+}
